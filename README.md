@@ -1,7 +1,15 @@
 # Ray_Portfolio
 Research and Projects
 
-# [Data Science Salary Estimator: Overview](https://github.com/ayushzoc/job_salary_proj)
+## [Hate Speech Detection: Overview](https://github.com/ayushzoc/hatespeechbert)
+* Created a tool that predicts whether a given statement is a hate speech (with test acc. of ~71%) to classify tweets.
+* Dataset contains over 110K tweets from various sources.
+* Data preprocessing includes deletion of unused features while labels from different sources were appropriately changed.
+* Built a classifier to fine tune a BERT model usign PyTorch.
+* Compared wiht a base model of just all labeled non-hateful.
+* Project was carried out to learn the deeper aspects of transformers and LLMs.
+
+## [Data Science Salary Estimator: Overview](https://github.com/ayushzoc/job_salary_proj)
 * Created a tool that estimates data science salaries (with MAE ~ 11K) to help data science enthusiasts negotiate their income while job search.
 * Scraped over 1000 job descriptions from glassdoor using python and selenium.
 * Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark.
