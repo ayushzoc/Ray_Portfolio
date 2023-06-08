@@ -15,3 +15,9 @@ Research and Projects
 * Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark.
 * Optimized Linear, Lasso and Random Forest Regressors using GridSearchCV to get the best model.
 * A simple client facing API using Flask.
+
+## Rossman Stores Sales Prediction using XGBoost (BI Perspective)
+* Created a model that predicts the sales of the rossman stores (with mean average precision of 0.13 ~ kaggle score) located in thousands of different places.
+* Data was obtained from kaggle competition of the Rossman Store Sales with an objective to dive deep into the theoretical and practical concepts of XGBoost.
+* Engineered features from the dates given to quantify the age of the store and the time since the competition of the store is open.
+* Hyperparamter Tuning of XGBoost was performed to get the best parameters possible.
