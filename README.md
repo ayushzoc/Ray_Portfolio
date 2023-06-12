@@ -8,12 +8,7 @@ Research and Projects
 * Built a classifier to fine tune a BERT model usign PyTorch.
 * Compared wiht a base model of just all labeled non-hateful.
 * Project was carried out to learn the deeper aspects of transformers and LLMs.
-
-**Figure 1**: Heatmap consisting relations among age of company, average salary, rating, description length and number of competitions. \
-![HEATMAP!](/images/heatmap.png)
-
-**Figure 2**: Job lisitings comparison on states and industry sectors. \
-![STATE!](/images/state_sector.png)
+![STATE!](/images/image1.png)
 
 
 ## [Data Science Salary Estimator: Overview](https://github.com/ayushzoc/job_salary_proj)
