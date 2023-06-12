@@ -33,4 +33,6 @@ Research and Projects
 * Engineered features from the dates given to quantify the age of the store and the time since the competition of the store is open.
 * Hyperparamter Tuning of XGBoost was performed to get the best parameters possible.  
 
+![State!](/images/image2.png)
+
 [View Code](https://github.com/ayushzoc/rossmanstoresales)
