@@ -7,7 +7,8 @@ Research and Projects
 * Data preprocessing includes deletion of unused features while labels from different sources were appropriately changed.
 * Built a classifier to fine tune a BERT model usign PyTorch.
 * Compared wiht a base model of just all labeled non-hateful.
-* Project was carried out to learn the deeper aspects of transformers and LLMs.
+* Project was carried out to learn the deeper aspects of transformers and LLMs.  
+
 ![STATE!](/images/image1.png)
 
 
