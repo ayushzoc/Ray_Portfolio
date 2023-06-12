@@ -33,6 +33,8 @@ Research and Projects
 * Engineered features from the dates given to quantify the age of the store and the time since the competition of the store is open.
 * Hyperparamter Tuning of XGBoost was performed to get the best parameters possible.  
 
+![Python](https://img.shields.io/badge/Python-100000?style=flat&logo=Python&logoColor=5A27B3&labelColor=FFFFFF&color=FFFFFF) ![Kaggle](https://img.shields.io/badge/Kaggle-100000?style=flat&logo=Kaggle&logoColor=00B3FF&labelColor=FFFFFF&color=FFFFFF) ![Jupyter](https://img.shields.io/badge/Jupyter-100000?style=flat&logo=Jupyter&logoColor=FD7200&labelColor=FFFFFF&color=FFFFFF) ![XGBoost](https://img.shields.io/badge/Gradient_Boost-white?logo=GradientBoost)
+
 ![State!](/images/image2.png)
 
 [View Code](https://github.com/ayushzoc/rossmanstoresales)
