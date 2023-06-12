@@ -21,7 +21,9 @@ Research and Projects
 * Optimized Linear, Lasso and Random Forest Regressors using GridSearchCV to get the best model.
 * A simple client facing API using Flask.  
 
-![STATE!](/images/image1.png)
+![STATE!](/images/image1.png)  
+
+![Python](https://img.shields.io/badge/Python-100000?style=flat&logo=Python&logoColor=5A27B3&labelColor=FFFFFF&color=FFFFFF) ![Selenium](https://img.shields.io/badge/Selenium-100000?style=flat&logo=Selenium&logoColor=06A000&labelColor=FFFFFF&color=FFFFFF) ![Jupyter](https://img.shields.io/badge/Jupyter-100000?style=flat&logo=Jupyter&logoColor=FD7200&labelColor=FFFFFF&color=FFFFFF) ![GlassDoor](https://img.shields.io/badge/GlassDoor-100000?style=flat&logo=Glassdoor&logoColor=02C319&labelColor=FFFFFF&color=FFFFFF)
 
 [View Code](https://github.com/ayushzoc/job_salary_proj)
 
