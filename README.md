@@ -9,7 +9,7 @@ Research and Projects
 * Compared wiht a base model of just all labeled non-hateful.
 * Project was carried out to learn the deeper aspects of transformers and LLMs.
 ![HEATMAP!](/images/heatmap.png)
-![STATE!](/images/State and sector.png)
+![STATE!](/images/state_sector.png)
 
 
 ## [Data Science Salary Estimator: Overview](https://github.com/ayushzoc/job_salary_proj)
