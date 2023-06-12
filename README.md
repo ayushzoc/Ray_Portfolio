@@ -9,10 +9,10 @@ Research and Projects
 * Compared wiht a base model of just all labeled non-hateful.
 * Project was carried out to learn the deeper aspects of transformers and LLMs. <br>
 <br>
-**Figure 1**: Heatmap consisting relations among age of company, average salary, rating, description length and number of competitions. 
+**Figure 1**: Heatmap consisting relations among age of company, average salary, rating, description length and number of competitions. \
 ![HEATMAP!](/images/heatmap.png)
 <br>
-**Figure 2**: Job lisitings comparison on states and industry sectors. <br>
+**Figure 2**: Job lisitings comparison on states and industry sectors. \
 ![STATE!](/images/state_sector.png)
 
 
