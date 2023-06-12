@@ -9,7 +9,7 @@ Research and Projects
 * Compared wiht a base model of just all labeled non-hateful.
 * Project was carried out to learn the deeper aspects of transformers and LLMs.  
 
-![Python](https://img.shields.io/badge/Python-100000?style=flat&logo=Python&logoColor=5A27B3&labelColor=FFFFFF&color=FFFFFF) ![PyTorch](https://img.shields.io/badge/PyTorch-white?logo=PyTorch)
+![Python](https://img.shields.io/badge/Python-100000?style=flat&logo=Python&logoColor=5A27B3&labelColor=FFFFFF&color=FFFFFF) ![PyTorch](https://img.shields.io/badge/PyTorch-100000?style=flat&logo=pytorch&logoColor=FF5500&labelColor=FFFFFF&color=FFFFFF) ![HuggingFace](https://img.shields.io/badge/HuggingFace?logo=HuggingFace-white)
 
 
 ## [Data Science Salary Estimator: Overview](https://github.com/ayushzoc/job_salary_proj)
