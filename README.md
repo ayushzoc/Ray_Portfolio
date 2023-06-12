@@ -8,9 +8,9 @@ Research and Projects
 * Built a classifier to fine tune a BERT model usign PyTorch.
 * Compared wiht a base model of just all labeled non-hateful.
 * Project was carried out to learn the deeper aspects of transformers and LLMs.
-![HEATMAP!](https://github.com/ayushzoc/Ray_Portfolio/blob/main/images/heatmap.png)
-![STATE!](https://github.com/ayushzoc/Ray_Portfolio/blob/main/images/state.png)
-![SECTOR!](https://github.com/ayushzoc/Ray_Portfolio/blob/main/images/sector.png)
+![HEATMAP!](/images/heatmap.png)
+![STATE!](/images/state.png)
+![SECTOR!](/images/sector.png)
 
 
 ## [Data Science Salary Estimator: Overview](https://github.com/ayushzoc/job_salary_proj)
