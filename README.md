@@ -47,4 +47,4 @@ Research and Projects
 * Haarcascades facial landmark detection was used.
 * Transfer Learning used from MobileNet.
 
-![Python](https://img.shields.io/badge/Python-100000?style=flat&logo=Python&logoColor=5A27B3&labelColor=FFFFFF&color=FFFFFF) ![TensorFlow](https://img.shields.io/badge/TensorFlow-100000?style=flat&logo=TensorFlow&logoColor=FF8D00&labelColor=FFFFFF&color=FFFFFF)
+![Python](https://img.shields.io/badge/Python-100000?style=flat&logo=Python&logoColor=5A27B3&labelColor=FFFFFF&color=FFFFFF) ![TensorFlow](https://img.shields.io/badge/TensorFlow-100000?style=flat&logo=TensorFlow&logoColor=FF8D00&labelColor=FFFFFF&color=FFFFFF) ![Keras](https://img.shields.io/badge/Keras-100000?style=flat&logo=Keras&logoColor=FF1E00&labelColor=FFFFFF&color=FFFFFF) ![OpenCV](https://img.shields.io/badge/Keras-100000?style=flat&logo=OpenCV&logoColor=44FF00&labelColor=FFFFFF&color=FFFFFF)
