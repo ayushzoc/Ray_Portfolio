@@ -39,9 +39,12 @@ Research and Projects
 
 [View Code](https://github.com/ayushzoc/rossmanstoresales)
 
-## Drowsiness Detection System using TensorFlow and OpenCV (Computer Vision)
+## Drowsiness Detection System using TensorFlow and OpenCV (Computer Vision, Transfer Learning)
 * A Computer Vision tool to detect drowsiness in drivers. 
 * The system is alerted if the driver is found sleepy/drowsy. 
 * The driver is determined sleepy/drowsy if their eyes remain shut for a small threshold amount of time which triggers an alarm to wake the driver up.
 * Initially used IMutils for facial detection which resulted in incorrect facial landmark detection multiple times.
 * Haarcascades facial landmark detection was used.
+* Transfer Learning used from MobileNet.
+
+![Python](https://img.shields.io/badge/Python-100000?style=flat&logo=Python&logoColor=5A27B3&labelColor=FFFFFF&color=FFFFFF) ![TensorFlow](https://img.shields.io/badge/TensorFlow-100000?style=for-the-badge&logo=TensorFlow&logoColor=FF8D00&labelColor=FFFFFF&color=FFFFFF)
