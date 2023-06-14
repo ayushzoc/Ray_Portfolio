@@ -38,3 +38,10 @@ Research and Projects
 ![State!](/images/image2.png)
 
 [View Code](https://github.com/ayushzoc/rossmanstoresales)
+
+## Drowsiness Detection System using TensorFlow and OpenCV (Computer Vision)
+* A Computer Vision tool to detect drowsiness in drivers. 
+* The system is alerted if the driver is found sleepy/drowsy. 
+* The driver is determined sleepy/drowsy if their eyes remain shut for a small threshold amount of time which triggers an alarm to wake the driver up.
+* Initially used IMutils for facial detection which resulted in incorrect facial landmark detection multiple times.
+* Haarcascades facial landmark detection was used.
